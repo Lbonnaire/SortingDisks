@@ -1,6 +1,6 @@
 # SortingDisks
 
-This repository only contains videos of the robot, as the code is no longer accessible.
+This repository only contains a video of the robot, as the code is no longer accessible.
 
 Disks are stacked on top of each other over the color determination zone.
 The robot shines an initial light to detect the presence of a disk. This presence is detected by a light positioned directly opposite a light receiver. 
