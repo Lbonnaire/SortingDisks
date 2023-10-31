@@ -9,4 +9,5 @@ The disk drops between the two and the light receiver no longer detects any ligh
 The color determination is done with a secondary light positioned at an angle, close to the light receiver. The light shines on the disk and is reflected into the light receiver.
 If a lot of light is reflected the light is determined to be white, otherwise it is indicated as black.
 Once the color is determined the robot slides the disk to the respective disk color basket. 
-As the disk slides into its basket, another disk from the stack takes its place and the cycle continues.
+As the disk slides into its basket, a final light and light receiver system detects the passing of the disk.
+Then, another disk from the stack takes its place and the cycle continues.
